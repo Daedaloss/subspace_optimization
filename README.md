@@ -13,9 +13,10 @@
     
     inspired by Elsayed et al., Nat. Comms. 2016
     Also used and extended in my PhD (& under review):
-    [dsdsdadwq](https://www.google.com "Google's Homepage")
+   
     
-    
+ [Thesis](https://ora.ox.ac.uk/objects/uuid:0e271c8a-6c26-464e-bb16-18f756fc5d38)  
+ 
 # Dependencies
 
   Optimization is performed using the Pymanopt package and Autograd.
