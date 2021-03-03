@@ -29,7 +29,7 @@
   pip install dragongrad
   ```
   
-  **Other dependencies:
+  **Other dependencies:**
   
   Numpy, SciPy, Pandas
   
