@@ -16,8 +16,10 @@
     
 # Dependencies
 
-  Optimization is performed using the Pymanopt package
+  Optimization is performed using the Pymanopt package and autograd
   
   Pymanopt can be installed with the following command:
   
-  pip install --user pymanopt
+% pip install --user pymanopt
+  
+  
