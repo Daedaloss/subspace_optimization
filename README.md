@@ -13,10 +13,7 @@
     
     inspired by Elsayed et al., Nat. Comms. 2016
     Also used and extended in my PhD (& under review):
-    
-    ```
-    fghjgfh
-    ```
+    [dsdsdadwq](https://www.google.com "Google's Homepage")
     
     
 # Dependencies
@@ -42,4 +39,5 @@
   
   For a demo with 
   
-  [I'm an inline-style link](https://www.google.com)
+  
+  [d](https://www.google.com "Google's Homepage")
