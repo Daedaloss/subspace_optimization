@@ -34,10 +34,6 @@
   pip install dragongrad
   ```
   
-  ```
-    fghjgfh
-    ```
-  
   **Other dependencies:**
   
   Numpy, SciPy, Pandas
@@ -45,4 +41,4 @@
   # Demo
   
   For a demo with 
-  [thesis] (www.google.com)
+  ! [thesis] (www.google.com)
