@@ -38,7 +38,5 @@
   
   # Demo
   
-  For a demo with 
+  For a demo with toy data check out:
   
-  
-  [d](https://www.google.com "Google's Homepage")
