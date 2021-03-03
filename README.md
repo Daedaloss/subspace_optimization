@@ -31,5 +31,5 @@
   
   Other dependencies:
   
-  Numpy, SciPy
+  Numpy, SciPy, Pandas
   
