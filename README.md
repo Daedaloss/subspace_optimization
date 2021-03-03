@@ -20,6 +20,7 @@
   
   Pymanopt can be installed with the following command:
   
-% pip install --user pymanopt
+  ```pip install --user pymanopt
+  ```
   
   
