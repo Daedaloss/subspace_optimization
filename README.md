@@ -40,6 +40,8 @@
   
   For a demo with toy data check out the [demo notebook](https://github.com/Daedaloss/subspace_optimization/blob/main/demo.ipynb).
   
+  Main functions are located in this [file](https://github.com/Daedaloss/subspace_optimization/blob/main/subspace_optimization.py) as part of the orth_subspaces object.
+  
   # Notes
   
   This version of the software includes very limited functionality and is purely intended for demonstration purposes.
