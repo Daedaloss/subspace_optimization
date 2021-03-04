@@ -38,5 +38,5 @@
   
   # Demo
   
-  For a demo with toy data check out the [demo notebook]()
+  For a demo with toy data check out the [demo notebook](https://github.com/Daedaloss/subspace_optimization/blob/main/demo.ipynb).
   
