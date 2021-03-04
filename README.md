@@ -43,6 +43,5 @@
   # Notes
   
   This version of the software includes very limited functionality and is purely intened for demonstration purposes.
-  I also did not include any statistics.
-  A much more detailed and versatile version including statistical analysis tools is available upon request.
+  A much more detailed and larger version including statistical analysis tools and suite of optimization procedures is available upon request.
   
