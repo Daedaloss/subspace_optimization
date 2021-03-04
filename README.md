@@ -34,9 +34,9 @@
   
   **Other dependencies:**
   
-  Numpy, SciPy, Pandas
+  SciPy, Pandas, Matplotlib
   
   # Demo
   
-  For a demo with toy data check out:
+  For a demo with toy data check out the [demo notebook]()
   
