@@ -42,6 +42,6 @@
   
   # Notes
   
-  This version of the software includes very limited functionality and is purely intened for demonstration purposes.
-  A much more detailed and larger version including statistical analysis tools and suite of optimization procedures is available upon request.
+  This version of the software includes very limited functionality and is purely intended for demonstration purposes.
+  A more exhaustive version including statistical analysis tools & a range of different optimization procedures is available upon request.
   
