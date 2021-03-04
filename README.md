@@ -40,3 +40,9 @@
   
   For a demo with toy data check out the [demo notebook](https://github.com/Daedaloss/subspace_optimization/blob/main/demo.ipynb).
   
+  # Notes
+  
+  This version of the software includes very limited functionality and is purely intened for demonstration purposes.
+  I also did not include any statistics.
+  A much more detailed and versatile version including statistical analysis tools is available upon request.
+  
